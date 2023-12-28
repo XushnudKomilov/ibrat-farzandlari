@@ -6,6 +6,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.display-f{
+    display: flex;
+}
 body{
     background-color: #fff;
 }
@@ -94,4 +97,19 @@ nav a{
     height: 3rem;
     border-radius: 50rem;
     background-color: #ff7f50;
+}
+section h1{
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10rem;
+}
+section p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.ingliz{
+    width: 400px;
+    height: 200px;
 }
