@@ -8,6 +8,7 @@
 }
 .display-f{
     display: flex;
+    margin-left: 45px;
 }
 body{
     background-color: #fff;
@@ -109,7 +110,12 @@ section p{
     font-weight: bold;
     font-size: 1.5rem;
 }
-.ingliz{
-    width: 400px;
-    height: 200px;
+.laug{
+    margin-left: 1rem;
+}
+.rasm{
+    width: 300px;
+}
+.ikki{
+    height: 3rem;
 }
