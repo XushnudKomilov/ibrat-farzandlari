@@ -6,6 +6,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+section{
+    text-align: center;
+}
 .display-f{
     display: flex;
     margin-left: 45px;
@@ -118,4 +121,40 @@ section p{
 }
 .ikki{
     height: 3rem;
+}
+.h1{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+.p{
+    font-size: 1rem;
+    font-weight: bolder;
+    justify-content: center;
+}
+.btn3{
+    padding: 1rem;
+    background-color: #ff7f50;
+    border-radius: 50rem;
+    margin-top: 16rem;
+    margin-left: 35rem;
+}
+.section1 img{
+    margin-left: 3rem;
+}
+.div1{
+    display: flex;
+    justify-content: space-around;
+    background-color: #173041;
+    border-radius: 4rem;
+    text-align: center;
+    width: 70rem;
+    margin-left: 7rem;
+    margin-top: 2rem;
+}
+.div1 div:nth-child(1){
+    margin-top: -4rem;
+}
+.div1 div:nth-child(2) {
+    width: 90vh;
 }
