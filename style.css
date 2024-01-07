@@ -170,5 +170,20 @@ section p{
     width: 90%;
 }
 .ustozlar{
-    
+    width: 20%;
+    background-color: #ffb671;
+    margin-right: 2rem;
+    margin-top: 1rem;
+}
+table{
+    width: 70rem;
+    margin-left: 8rem;
+    height: 20rem;
+}
+footer{
+    background-color: #182e3d;
+    color: #fff;
+}
+.faol{
+    background-color: #182e3d;
 }
