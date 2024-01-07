@@ -5,13 +5,17 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    text-align-last: center;
 }
 section{
     text-align: center;
 }
 .display-f{
     display: flex;
-    margin-left: 45px;
+    justify-content: center;
 }
 body{
     background-color: #fff;
@@ -157,4 +161,14 @@ section p{
 }
 .div1 div:nth-child(2) {
     width: 90vh;
+}
+.d-f{
+    display: flex;
+    margin-left: 3rem;
+}
+.d-f div{
+    width: 90%;
+}
+.ustozlar{
+    
 }
